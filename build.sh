@@ -101,7 +101,7 @@ build(){
         fi
         show_pre "\n "$cursor" : ✨ Tweaking Animation...\\r"
 
-        sh tweak.sh "$cursor"
+        ./tweak.sh "$cursor"
 
         if [ $? -eq 0 ]
         then
