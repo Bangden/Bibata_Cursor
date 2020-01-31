@@ -164,7 +164,9 @@ From https://github.com/Silicasandwhich/Bibata_Cursor_Translucent#windows -->
 
 1. Make sure you have installed all [Build dependencies](#build-dependencies).
 
-2. Build & Install:
+2. You must install pip and pip install image.
+
+3. Build & Install:
    ```shell
    git clone https://github.com/KaizIqbal/Bibata_Cursor.git
    cd Bibata_Cursor/
@@ -180,7 +182,7 @@ From https://github.com/Silicasandwhich/Bibata_Cursor_Translucent#windows -->
    ```
    ./install.sh
    ```
-3. Uninstall:
+4. Uninstall:
 
    Using `Script` :
 
